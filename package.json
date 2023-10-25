@@ -1,0 +1,26 @@
+{
+    "name": "postcss-change-css-prefix-namespace",
+    "version": "0.1.0",
+    "description": "The postcss plugin to change the css selector prefix namespace",
+    "main": "src/index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jiq1997/postcss-change-css-prefix-namespace.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [
+        "postcss",
+        "css",
+        "namespace",
+        "prefix"
+    ],
+    "bugs": {
+        "url": "https://github.com/jiq1997/postcss-change-css-prefix-namespace/issues"
+    },
+    "homepage": "https://github.com/jiq1997/postcss-change-css-prefix-namespace",
+    "peerDependencies": {
+        "postcss": "^7.0.0"
+    }
+}
